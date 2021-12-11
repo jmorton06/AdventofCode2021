@@ -8,10 +8,10 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include "Day9.hpp"
+#include "Day11.hpp"
 
 int main(int argc, const char * argv[]) {
         
-    std::cout << RunDay9("/Users/jmorton/Dev/AdventOfCode/AdventOfCode/AdventOfCode/Data/inputDay9.txt") << std::endl;
+    std::cout << RunDay11("/Users/jmorton/Dev/AdventOfCode/AdventOfCode/AdventOfCode/Data/inputDay11.txt") << std::endl;
     return 0;
 }
